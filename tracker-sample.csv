@@ -1,0 +1,5 @@
+id,tender,client,stage,deadline,owner,decision,notes
+T-001,Medical equipment supply (fictional),Sample Hospital A,Prepare,2026-12-10,Owner 1,Go,Technical section in progress
+T-002,Clinic software licenses (fictional),Sample Clinic B,Go / no-go,2026-12-15,Owner 2,Pending,Waiting for requirements review
+T-003,Lab consumables (fictional),Sample Lab C,Follow up,2026-11-01,Owner 1,Go,Submitted; feedback requested
+T-004,Facility maintenance (fictional),Sample Group D,Closed,2026-10-20,Owner 3,No-go,Outside our scope
